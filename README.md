@@ -14,7 +14,7 @@ _You have **three hours** to complete this challenge. Plan your time accordingly
 
 In this challenge you will be working from the `Lambda Eats` homepage to create a functional `Pizza?` button that leads to a build your own pizza custom form.
 
-You may use the following wireframes (also in a folder above) as guidance as you design your site but it is not required that you do so.
+You may use  the following wireframes (also in a folder above) as guidance as you design your site but it is not required that you do so.
 
 [Form](https://tk-assets.lambdaschool.com/d43783ef-e6a8-4154-ba68-430e2275fddc_Form.png)
 
